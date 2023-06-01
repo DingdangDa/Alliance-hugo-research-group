@@ -18,12 +18,12 @@ social:
     link: https://github.com/DingdangDa
   - display:
       header: false
-    icon_pack: far
-    icon: globe
+    icon_pack: fas
+    icon: link
     link: https://xuanyuhuang.netlify.app
 organizations:
   - name: Alliance
-    url: "https://www.rm-alliance.icu"
+    url: https://www.rm-alliance.icu
 education:
   courses:
     - course: B.E. in Electronic Engineering
