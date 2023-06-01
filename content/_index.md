@@ -64,7 +64,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
+        {{% cta cta_link="./people/" cta_text="Team →" %}}
     design:
       columns: '1'
 ---
