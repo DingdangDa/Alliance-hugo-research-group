@@ -1,5 +1,5 @@
 ---
-title: Xuanyu Huang
+title: 黄炫宇
 role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
@@ -23,7 +23,7 @@ social:
     link: https://xuanyuhuang.netlify.app
 organizations:
   - name: Alliance
-    url: ""
+    url: "https://www.rm-alliance.icu"
 education:
   courses:
     - course: B.E. in Electronic Engineering
