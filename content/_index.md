@@ -8,14 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        **Alliance**
+
+        南京理工大学RoboMaster团队
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        南京理工大学**Alliance**团队成立于2017年（好像是吧），连续多年进入RoboMaster全国赛/复活赛，在2019赛季取得中部分区赛亚军。
+
+        我们欢迎各位喜欢机器人的同学加入。
   
   - block: collection
     content:
