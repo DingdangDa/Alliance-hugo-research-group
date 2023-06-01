@@ -48,7 +48,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: 1656178484213.jpg
           filters:
             brightness: 1
           parallax: false
@@ -64,7 +64,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="团队成员 →" %}}
     design:
       columns: '1'
 ---
