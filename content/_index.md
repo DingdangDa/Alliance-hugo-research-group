@@ -22,7 +22,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 新闻
       subtitle:
       text:
       count: 5
