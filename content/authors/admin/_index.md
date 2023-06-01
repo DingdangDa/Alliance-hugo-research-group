@@ -16,6 +16,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/DingdangDa
+  - display:
+      header: false
+    icon_pack: far
+    icon: globe
+    link: https://xuanyuhuang.netlify.app
 organizations:
   - name: Alliance
     url: ""
